@@ -89,9 +89,3 @@ logoff
 @echo off
 del /a /f /s /q "%userprofile%\Desktop\ps.txt"
 del %0
-
-
-
-
-
-
